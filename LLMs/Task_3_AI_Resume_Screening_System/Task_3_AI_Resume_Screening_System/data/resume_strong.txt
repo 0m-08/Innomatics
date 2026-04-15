@@ -1,0 +1,44 @@
+Name: Arjun Mehta
+Email: arjun.mehta@email.com
+LinkedIn: linkedin.com/in/arjunmehta
+
+SUMMARY
+Senior Data Scientist with 5+ years of experience building end-to-end ML pipelines,
+deploying models to production, and leading cross-functional analytics teams.
+
+EXPERIENCE
+
+Senior Data Scientist | TechCorp India | 2021 – Present (3 years)
+- Built and deployed NLP models (BERT, RoBERTa) for customer sentiment analysis, improving
+  CSAT scores by 22%.
+- Led a team of 4 data scientists to develop a real-time recommendation engine using
+  collaborative filtering and deep learning (PyTorch), serving 2M+ users.
+- Designed A/B testing frameworks reducing experimentation cycle time by 40%.
+- Deployed models on AWS SageMaker with CI/CD pipelines (Docker, GitHub Actions).
+
+Data Scientist | Analytics Hub | 2019 – 2021 (2 years)
+- Developed predictive churn models using XGBoost and LightGBM with 92% AUC.
+- Conducted EDA and feature engineering on structured and unstructured datasets.
+- Created Tableau dashboards for executive reporting.
+
+EDUCATION
+M.Tech in Data Science | IIT Bombay | 2019 | CGPA: 9.1
+B.Tech in Computer Science | NIT Pune | 2017 | CGPA: 8.8
+
+SKILLS
+Programming: Python, R, SQL, Scala
+ML/DL Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras, HuggingFace Transformers
+Data Engineering: Apache Spark, Kafka, Airflow, dbt
+Cloud: AWS (SageMaker, S3, Lambda, EC2), GCP (BigQuery, Vertex AI)
+MLOps: Docker, Kubernetes, MLflow, GitHub Actions, CI/CD
+Visualization: Tableau, Power BI, Matplotlib, Seaborn
+Statistics: Hypothesis Testing, Bayesian Inference, Time Series Analysis
+
+CERTIFICATIONS
+- AWS Certified Machine Learning – Specialty
+- Google Professional Data Engineer
+- DeepLearning.AI TensorFlow Developer Certificate
+
+PROJECTS
+- Built a Transformer-based text summarization system achieving ROUGE-L of 0.68
+- Published research paper on "Federated Learning for Healthcare Data" (ICML 2022)

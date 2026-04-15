@@ -1,0 +1,43 @@
+Name: Priya Sharma
+Email: priya.sharma@email.com
+LinkedIn: linkedin.com/in/priyasharma
+
+SUMMARY
+Data Analyst with 2 years of experience in data processing, visualization, and basic
+machine learning. Looking to transition into a Data Scientist role.
+
+EXPERIENCE
+
+Data Analyst | StartupXYZ | 2022 – Present (2 years)
+- Performed data cleaning and preprocessing using Python (Pandas, NumPy).
+- Built basic classification models (Logistic Regression, Decision Trees) using Scikit-learn.
+- Created Power BI dashboards for business reporting.
+- Wrote SQL queries for data extraction and transformation.
+
+Junior Data Analyst | InfoSystems Ltd | 2021 – 2022 (1 year)
+- Supported senior analysts in building Excel-based reporting pipelines.
+- Wrote basic Python scripts for data automation tasks.
+
+EDUCATION
+B.Tech in Information Technology | Pune University | 2021 | CGPA: 7.6
+
+SKILLS
+Programming: Python, SQL
+ML Libraries: Scikit-learn, Pandas, NumPy, Matplotlib
+Tools: Power BI, Excel, Jupyter Notebook
+Databases: MySQL, PostgreSQL
+Cloud: Basic AWS knowledge (S3, EC2) – no hands-on deployment experience
+
+PROJECTS
+- Titanic Survival Prediction using Logistic Regression (Kaggle)
+- Sales Forecasting using Linear Regression for a college mini-project
+- Customer Segmentation using K-Means Clustering
+
+CERTIFICATIONS
+- IBM Data Science Professional Certificate (Coursera)
+- Python for Data Science (Udemy)
+
+NOTE
+- No experience with deep learning frameworks (PyTorch/TensorFlow)
+- No production model deployment experience
+- Limited cloud experience

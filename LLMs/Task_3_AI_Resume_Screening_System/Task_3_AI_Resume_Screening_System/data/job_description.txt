@@ -1,0 +1,52 @@
+Job Title: Senior Data Scientist
+Company: InnovateTech Solutions
+Location: Pune / Hybrid
+
+ABOUT THE ROLE
+We are looking for a skilled Senior Data Scientist to join our growing AI/ML team.
+You will be responsible for building scalable machine learning models, deploying
+them to production, and deriving insights from large datasets to drive business decisions.
+
+REQUIRED SKILLS & EXPERIENCE
+
+Experience:
+- 3+ years of hands-on Data Science / ML experience
+- Experience deploying ML models to production environments
+
+Technical Skills (Must Have):
+- Proficiency in Python and SQL
+- Strong knowledge of ML algorithms: regression, classification, clustering, ensemble methods
+- Deep Learning experience: PyTorch or TensorFlow
+- NLP experience (text classification, transformers, BERT, etc.)
+- Experience with cloud platforms: AWS or GCP
+- MLOps tools: Docker, MLflow, or similar
+- Data manipulation: Pandas, NumPy, Spark
+
+Tools & Platforms (Must Have):
+- Git / GitHub for version control
+- Jupyter Notebook / VS Code
+- At least one cloud ML platform (SageMaker, Vertex AI, etc.)
+
+Nice to Have:
+- Kubernetes, Airflow, Kafka
+- Research publications or Kaggle achievements
+- Experience with A/B testing
+- Knowledge of Bayesian Statistics or Time Series
+
+Education:
+- B.Tech/M.Tech in CS, Data Science, Statistics, or related field
+- Minimum CGPA: 7.5
+
+KEY RESPONSIBILITIES
+- Build, train, and deploy ML/DL models at scale
+- Collaborate with product and engineering teams
+- Perform EDA and feature engineering on large datasets
+- Monitor model performance and retrain as needed
+- Write clean, production-grade Python code
+
+SCORING CRITERIA (Internal):
+- Core ML/DL Skills: 35 points
+- Cloud & MLOps: 20 points
+- Experience & Projects: 25 points
+- Education & Certifications: 10 points
+- Communication & Soft Skills: 10 points

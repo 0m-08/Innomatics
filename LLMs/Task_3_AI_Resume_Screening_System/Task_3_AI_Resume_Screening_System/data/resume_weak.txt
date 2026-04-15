@@ -1,0 +1,40 @@
+Name: Rahul Patil
+Email: rahul.patil@email.com
+
+SUMMARY
+Recent B.Tech graduate interested in data and technology. Eager to learn and grow
+in a challenging environment.
+
+EXPERIENCE
+
+IT Support Intern | LocalTech | June 2023 – Aug 2023 (3 months)
+- Assisted in hardware and software troubleshooting.
+- Maintained IT inventory spreadsheets.
+- Helped with basic network configuration tasks.
+
+EDUCATION
+B.Tech in Electronics & Communication | Regional Engineering College | 2023 | CGPA: 6.2
+
+SKILLS
+- Basic Python (completed one online course)
+- Microsoft Office (Word, Excel, PowerPoint)
+- Basic HTML/CSS
+- C programming (from college curriculum)
+
+PROJECTS
+- Simple calculator app in Python (college lab assignment)
+- Basic portfolio website in HTML/CSS
+
+INTERESTS
+- Watching YouTube tutorials on data science
+- Playing video games
+- Cricket
+
+CERTIFICATIONS
+- None relevant to Data Science
+
+NOTE
+- No ML/DL experience
+- No statistics background
+- No real datasets worked on
+- No cloud or tools experience
