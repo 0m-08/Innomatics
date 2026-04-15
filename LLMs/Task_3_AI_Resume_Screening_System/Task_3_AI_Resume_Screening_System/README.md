@@ -177,4 +177,4 @@ All prompts follow strict anti-hallucination rules:
 
 **Om** | Agentic AI Intern @ Innomatics Research Labs  
 GH Raisoni College of Engineering & Management, Pune  
-GitHub: [github.com/your-username](https://github.com/0m-08)
+GitHub:https://github.com/0m-08
